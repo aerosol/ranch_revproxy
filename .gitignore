@@ -1,0 +1,8 @@
+.eunit
+ebin
+deps
+priv
+*.o
+*.beam
+*.dump
+
